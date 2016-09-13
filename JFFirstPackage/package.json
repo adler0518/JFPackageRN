@@ -1,22 +1,19 @@
 {
-    "name": "@qnpm/react-native-qunar-extension",
-    "version": "0.0.10",
-    "description": "React Native Qunar Extension",
+    "name": "react-native-jf-extension",
+    "version": "0.0.1",
+    "description": "JF React Native Extension",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "peerDependencies": {
-        "@qnpm/react-native": "^0.17.12"
-    },
     "repository": {
         "type": "git",
-        "url": "http://gitlab.corp.qunar.com/react_native/react_native_js_extension.git"
+        "url": "https://github.com/adler0518/JFPackageRN/tree/master/JFFirstPackage"
     },
     "keywords": [
         "React",
         "Native"
     ],
-    "author": ["yingdong.guo@qunar.com", "muxian.wu@qunar.com"],
+    "author": ["adler0518@163.com"],
     "license": "UNLICENSED"
 }
