@@ -1,4 +1,4 @@
-## Qunar React Native 基础组件
+## JF React Native 基础组件
 
 `react-native-jf-extension` 在 `react-native` 的基础上，新增和修改了许多基础组件和API。
 
